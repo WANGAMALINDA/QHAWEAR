@@ -6,7 +6,7 @@ South African clothing brand focused on authentic streetwear, limited drops, and
 - https://www.qhawear.com/
 
 ## Important Pages
-- https://www.qhawear.com/ - Main storefront and brand landing page.
+- https://www.qhawear.com/ - Main store and brand landing page.
 - https://www.qhawear.com/mobile-improved.html - Mobile-oriented version of the storefront.
 - https://www.qhawear.com/original-hero-footer.html - Alternate storefront layout.
 

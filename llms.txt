@@ -1,0 +1,20 @@
+# QHAWEAR
+
+South African clothing brand focused on authentic streetwear, limited drops, and identity-driven design.
+
+## Primary URL
+- https://www.qhawear.com/
+
+## Important Pages
+- https://www.qhawear.com/ - Main storefront and brand landing page.
+- https://www.qhawear.com/mobile-improved.html - Mobile-oriented version of the storefront.
+- https://www.qhawear.com/original-hero-footer.html - Alternate storefront layout.
+
+## What The Site Offers
+- Premium cotton, acid wash, hoodie, cap, sock, signature, round neck, and sweatpants collections.
+- WhatsApp and email ordering.
+- Brand-led messaging around authenticity and limited drops.
+
+## Contact
+- WhatsApp: +27 76 829 6508
+- Email: qhaweer@gmail.com
